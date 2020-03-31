@@ -9,7 +9,7 @@ import java.util.Arrays;
 /**
  * @Author cuihaiyan
  * @Create_Time 2020-03-27 10:22
- * @Description:
+ * @Description: 注册拦截器
  */
 @Configuration
 public class WebConfig implements WebMvcConfigurer {

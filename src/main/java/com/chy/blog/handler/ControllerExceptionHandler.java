@@ -13,7 +13,7 @@ import javax.servlet.http.HttpServletRequest;
 /**
  * @Author cuihaiyan
  * @Create_Time 2020-03-23 22:23
- * @Description:
+ * @Description: 全局异常拦截，统一处理异常
  */
 
 @ControllerAdvice
